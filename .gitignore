@@ -1,0 +1,9 @@
+virtual/
+venv/
+Flickr8k_Dataset.zip
+Flicker8k_Dataset/
+__MACOSX/
+.DS_Store
+__pycache__/
+lightning_logs/
+*.pth
